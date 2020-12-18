@@ -10,7 +10,7 @@ Input moves by entering the square number that you wish to select (from 0 to 9) 
 It is possible to defeat this Tic-Tac-Toe by starting in the centre. If the AI goes on the 
 
 ## TODO
-I am probably not going to work further on this project, since it was mainly to have fun. But here is a list of things that would be fun to implement
+I am probably not going to work further on this project, since it was mainly to have fun. But here is a list of things that would be fun to implement!
 
 ### Basic Game Play
 - Make single- vs. double-player functionality
@@ -23,4 +23,4 @@ I am probably not going to work further on this project, since it was mainly to 
 - Let the player choose whether the AI starts (i.e. whether it is 'X' or 'O')
 
 ## Future Projects
-- I am working (about as diligently as I worked on this) on a Chess engine! Of course, it will not come close to solving the game, but I think it will be a fun challenge. It will either be in C or C++, since I have already made one in Python. With these software projects, I do not have my heart set on finishing them; they are mainly to hone and maintain my low-level language skills.
+I am working (about as diligently as I worked on this) on a Chess engine! Of course, it will not come close to solving the game, but I think it will be a fun challenge. It will either be in C or C++, since I have already made one in Python. With these software projects, I do not have my heart set on finishing them; they are mainly to hone and maintain my low-level language skills.
