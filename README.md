@@ -7,7 +7,7 @@ The Tic-Tac-Toe player can look one move ahead and either attack or defend accor
 Input moves by entering the square number that you wish to select (from 0 to 9) and hit ENTER. The AI will generate its move automatically.
 
 ## Testing
-It is possible to defeat this Tic-Tac-Toe by starting in the centre. If the AI goes on the 
+It is possible to defeat this Tic-Tac-Toe by starting in the centre. If the AI goes on an edge, it has lost.
 
 ## TODO
 I am probably not going to work further on this project, since it was mainly to have fun. But here is a list of things that would be fun to implement!
