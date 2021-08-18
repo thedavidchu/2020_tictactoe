@@ -21,6 +21,3 @@ I am probably not going to work further on this project, since it was mainly to 
 ### AI
 - Make multiple levels of AI (Easy = Random, Medium = Look 1 move ahead, Hard = Never loses)
 - Let the player choose whether the AI starts (i.e. whether it is 'X' or 'O')
-
-## Future Projects
-I am working (about as diligently as I worked on this) on a Chess engine! Of course, it will not come close to solving the game, but I think it will be a fun challenge. It will either be in C or C++, since I have already made one in Python. With these software projects, I do not have my heart set on finishing them; they are mainly to hone and maintain my low-level language skills.
